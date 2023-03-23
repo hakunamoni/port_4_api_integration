@@ -18,17 +18,19 @@ Technologies used: SuiteTalk PHP Toolkit, SuiteScript - Restlet, Scheduled, Suit
 
 ## Source Scripts
 
-1. [Amazon](/amazon)
+2014. [NetSuite DB Sync (Curl to call Suitelet)](/script/2014_ns_db_sync_suitelet)
 
-2. [Channel Advisor](/channeladvisor)
+2015. [NetSuite PayPal Integration (PHP Toolkit)](/script/2015_ns_paypal_php_toolkit)
 
-3. [Pixmania](/pixmania)
+2016. [NetSuite WordPress Integration (Curl to call Suitelet)](/script/2015_ns_wp_suitelet)
 
-4. [Magento](/magento)
+2017. [NetSuite Amazon Integration (PHP Toolkit)](/script/2016_ns_amazon_php_toolkit)
 
-5. [Temando](/temando)
+2018. [NetSuite Detrack Integration (UserEvent)](/script/2016_ns_detrack_userevent)
 
-6. [Rakuten](/rakuten)
+2019. [NetSuite UPS Integration (Suitelet)](/script/2017_ns_ups_shipment_suitelet)
+
+2020. [NetSuite Shopify Integration (SuiteScript)](/script/2018_ns_shopify_suitescript)
 
 ## Demo Running Results
 
