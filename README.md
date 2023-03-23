@@ -37,7 +37,7 @@ Technologies used: SuiteTalk PHP Toolkit, SuiteScript - Restlet, Scheduled, Suit
 [Shopify NetSuite Integration](/script/2018_ns_shopify_suitescript)
 
 ![demo](/img/shopify_20180520_120908.png)
-![demo](/img/shopify_20180520_121036.png)
+![demo](/img/shopify_20180520_121036.jpg)
 ![demo](/img/shopify_20180520_121105.png)
 ![demo](/img/shopify_20180520_121132.png)
 ![demo](/img/shopify_20180520_121719.png)
